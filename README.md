@@ -1,3 +1,7 @@
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/682408f2-ce18-40f3-8cd3-94f260c34a15" />
+
+
+
 <img src="src/assets/images/icon-128.png" width="64"/>
 
 # Automa
