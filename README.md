@@ -1,3 +1,5 @@
+/en/neoclassic/oauth2/applications
+
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/682408f2-ce18-40f3-8cd3-94f260c34a15" />
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/80ffd9af-6ca1-4c06-a44f-d9c7975d9a7b" />
